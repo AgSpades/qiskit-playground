@@ -3,3 +3,4 @@ matplotlib
 qiskit_ibm_runtime
 pylatexenc
 ipykernel
+python-dotenv
